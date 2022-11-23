@@ -9,3 +9,5 @@ int main()
     std::cout <<"  - supports object-oriented programming\n";
     std::cout <<"  - supports generic programming.\n";
 }
+
+//Напишите программу, печатающую на экране первые строчки со страницы Бьярне Страуструпа про C++
